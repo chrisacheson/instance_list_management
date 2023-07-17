@@ -1,59 +1,168 @@
 hostname,country,region,description
+0xdd.org.ru,Russia,,"""DevDay Community Links Aggregator"", tech focus"
+aiparadise.moe,,,"""a Lemmy instance focused on all things AI, everyone is welcome here :)"""
 ani.social,,,"""A Social Hub for Anime Fans"""
 aussie.zone,Australia,,
+bbs.9tail.net,Chinese,,"""Anonymous two-dimensional chat forum for anime, comic, game, vtuber"""
+bolha.forum,Portuguese,,"""Visit [bolha.io](https://bolha.io/) to know more about our collective."""
 bookwormstory.social,,,"""Ascendance of a Bookworm Community"""
+boomer.casino,,,"""the only website in the fediverse made for the digital elderly"" (memes)"
+boulder.ly,USA,"CO, Boulder County","""Keep Boulder weird, in the Fediverse!"""
 cdda.social,,,"""The official Lemmy for Cataclysm: Dark Days Ahead"""
+centennialstate.social,USA,CO,
+citizensgaming.com,,,"""a Star Citizen specific Lemmy instance"""
+code4lib.net,,,"""GLAM themed online community"" (galleries, libraries, archives, and museums)"
+communick.news,,,"""Given that [Communick](https://communick.com/) is a privacy-focused service provider who supports open source and the indieweb, you can expect some of this content to gravitate towards that"""
+community.nicfab.it,,,"""This is a community space for projects and users interested in privacy, data protection, cybersecurity, and innovative solutions."""
+crystals.rest,,,"""A general instance for livestreaming, anime, and retro art!"""
+czech-lemmy.eu,Czechia,,
+demotheque.com,,,"""For the demoscene, culture and people associated with it."""
+digipres.cafe,,,"""A community notice board and discussion space for all things digital preservation, including digital-GLAM, and digital information records management."""
+discuss.divergentparenting.space,,,"""A space for caregivers of neurodivergent people to talk amongst themselves and provide support. Allies are welcome."""
+disflux.org,,,"""disflux is a lemmy instance focused on D.I.Y. and self sufficiency type communities."""
+dit.reformed.social,,,"""a space for Reformed Christians to have discussions, make friends, and support one another"""
+dmv.social,USA,DC/MD/VA,"""a community for those around washington dc, maryland, and virginia"""
 dormi.zone,,,"""A Lemmy instance for fans of the third-person action games Warframe and Soulframe, developed by Digital Extremes"""
+dubvee.org,USA,WV,
 eslemmy.es,Spain,,General Spanish language server?
 fanaticus.social,,,"""A community of sports fans to talk about sports."""
+fanexus.com,,,"""A lemmy instance devoted to fans of all kinds."""
 feddit.ch,Switzerland,,
 feddit.cl,Chile,,
 feddit.de,Germany,,
 feddit.dk,Denmark,,
 feddit.it,Italy,,
+feddit.jp,Japan,,
 feddit.nl,Netherlands,,
 feddit.nu,Sweden,,
-feddit.pt,Portugal,,Gone?
+feddit.nz,New Zealand,,
+feddit.pt,Portugal,,
 feddit.ro,Romania,,
 feddit.uk,UK,,
+femboys.bar,,,"""lemmy instance for the bois'"""
+foro.markoop.org,Spanish,,"""[Markoop](https://markoop.org/) is a strategic free culture project to establish a cooperative framework in Social and Solidarity Economy environments."""
+foros.fediverso.gal,Galician,,
+fost.hu,Hungary,,"""A magyar Lemmy szerver 🇭🇺"""
+frmsn.space,,,"""The home for Freemasonry on Lemmy & the Fediverse"""
+gekinzuku.com,,,"""The best gaming site ever"""
+group.lt,Lithuania,,
+hobbit.world,,,"""This is intended to be a small community of folks who love the works of Tolkien."""
 infosec.pub,,,"Info- and cybersecurity, related to infosec.exchange Mastodon server"
 iusearchlinux.fyi,,,btw
 jlai.lu,France,,
 karab.in,Poland,,
+l.cackl.io,,,"""Link aggregation for furries: hyenas and hyena friends, specifically! Furry content not required."""
 lem.clinicians-exchange.org,,,"""Mental Health Professional Discussion and Peer Support"""
 lemdro.id,,,Android
+lemiverse.xyz,Slovenia,,
+lemmie.be,Belgium,,
+lemmy.4d2.org,,,"""A general purpose instance with an affection for retrocomputing and a left-libertarian cypherpunk sensibility."""
+lemmy.beyondcombustion.net,,,"""A Lemmy community for cannabis, vaporizers, and vaporizer accessories."""
+lemmy.blahaj.zone,,,"""a general purpose lemmy instance for queer and gender diverse folk, and their allies."""
+lemmy.bleh.au,Australia,,
+lemmy.bringdaruck.us,,,"""A home for all things hiphop"""
 lemmy.ca,Canada,,
+lemmy.cat,Catalan,,
+lemmy.ch3n2k.com,Chinese,,
+lemmy.dbzer0.com,,,"""Communities about Generative AI, Copylefts, Neurodivergence, Filesharing, and Godot Engine software"""
+lemmy.death916.xyz,USA,"CA, Sacramento",
+lemmy.design,,,"""A Lemmy community for tech and design"""
 lemmy.eco.br,Brazil,,
+lemmy.eus,Basque,,"""Free and federated Basque web forums. Euskalmemes, free software, fidiverse, etymologies..."""
 lemmy.film,,,"""A Lemmy for filmmakers, movie buffs, artists, creators and everyone!"""
+lemmy.funami.tech,South Korea,,
+lemmy.glasgow.social,,,"""A place for communities based in and around Glasgow, Scotland."""
+lemmy.graphics,,,"""A Lemmy instance for computer graphics hobbyists and professionals."""
+lemmy.graz.social,Austria,Graz,
+lemmy.helvetet.eu,Sweden,,Metal music focus
+lemmy.intai.tech,,,"""Integrated AI - Home and forum for AI Enthusiasts"" Front end broken? Doesn't list any posts, but [direct links](https://lemmy.intai.tech/post/99) to them still work"
+lemmy.kaouenn-noz.fr,France,,Biohacking focus
+lemmy.kde.social,,,"""Friendly lemmy instance for the KDE community"""
+lemmy.kodemystic.dev,,,"""Extradimensional pit for eschatonic oracles, anarcho-technomancers, wasted tinfoil madhatters, seekers of eldritch abysses and amnesiac xenomorphs."""
+lemmy.linuxuserspace.show,,,"""This instance is brought to you by the guys that do the [Linux User Space](https://linuxuserspace.show/) video and audio podcast."""
+lemmy.mayes.io,USA,VA,"""local communities for virginia and blue ridge."""
 lemmy.my.id,Indonesia,,
+lemmy.nine-hells.net,Australia,Tasmania,
 lemmy.nz,New Zealand,,
+lemmy.org.il,Israel/Palestine,,"""General Palestine/Israel instance. Hebrew/Arabic/Engl*sh"""
+lemmy.perthchat.org,Australia,Perth,
+lemmy.piracy.guide,,,"""Piracy Guide Lemmy"""
 lemmy.radio,,,"""A lemmy instance for amateur radio enthusiasts to use."""
+lemmy.redkrieg.com,,,"""Just a place for makers to post their things!"""
 lemmy.rollenspiel.monster,Germany,,RPG-focused
+lemmy.sdfcn.org,Chinese,,
+lemmy.sdfjp.org,Japanese/English,,
+lemmy.servarr.com,,,"""Lemmy for Servarr and all arr related things"""
+lemmy.spacestation14.com,,,"""A Lemmy instance for [Space Station 14](https://spacestation14.io/)"""
+lemmy.srv.eco,,,"""Self-sufficiency, mutual aid, collapse, and other subjects related to the environment and our place and role(s) within it."""
 lemmy.studio,,,"""An instance for musicians and music lovers"""
+lemmy.villa-straylight.social,,,"""A general purpose Lemmy instance with a cool cyberpunk aesthetic"""
+lemmy.vrchat-dev.tech,,,"""a community-driven lemmy instance for VRChat, a virtual universe home to thousands of unique worlds!"""
 lemmy.whynotdrs.org,,,"""GameStop, US stock markets, direct registration, holding Wall Street accountable, and more"""
+lemmy.wraithsquadrongaming.com,,,"""Star Wars is a buffet - there's something for everyone!"""
+lemmy.zip,,,"""A Lemmy community for everyone, with a focus towards tech, PCs, and gaming."""
+lemmy2.addictmud.org,,,"""focus on gaming in general, mudding more specifically, and my mud exactly (addictMUD)."""
+lemmyadmin.site,,,"""A Federation of small instance administrators to share knowledge and back each other up during off hours incidents."""
+lemmydeals.com,,,"""A Federated deal finder"""
+lemmyf.uk,,,"""your nsfw homepage"""
+lemmyfly.org,,,"""A Lemmy instance with aviation related communities"""
+lemmyjapan.com,Japan,,
+lemmymemes.com,,,"""Join our online board, connect with meme lovers, and unleash your laughter. Share, discuss, and enjoy the funniest memes around. It's meme time!"""
 lemmynsfw.com,,,"""NSFW (18+) only instance for Lemmy"""
 lemmyrs.org,,,"""Federated Rust Lang Instance"""
+lemuria.es,Spanish,,"""A meeting point to discover and debate for Spanish-speaking users"""
+lemy.nl,Netherlands,,
+lib.lgbt,,,"""positive and welcoming lemmy community with a particular focus on LGBT people and their allies."""
+libreauto.app,,,"""Libre Automation: Build Smart Homes, Liberating with Open-Source"""
+linux.community,,,"""The Linux.Chat community is a multi-platform community for general Linux® support."""
+lmmy.co.za,South Africa,,"""A place for lemmy'sersingtons in South Africa"""
 mander.xyz,,,"""An instance dedicated to nature and science"""
 midwest.social,USA,Midwest,"""A lemmy server for, but not limited to, leftists in the Midwest USA"""
+mobilemmohub.com,,,"""Community of mobile MMO games enthusiasts"""
 monero.town,,,"""A town for the Monero community to live in."""
 monyet.cc,Malaysia,,
+moto.teamswollen.org,,,"""For all motorcycle discussions including racing."""
 mtgzone.com,,,"""Magic: the Gathering communities for all formats, interests, skill levels, and news!"""
+mujico.org,Mexico,,"""r/Mujico: Fuck u/spez, we move to mujico.org"" (memes)"
+neatia.xyz,,,"""dedicated to writing and sharing prompts for prompt engineering in LLMs."""
 nerdbin.social,,,"""Your home for all your favorite nerdy pop culture fandoms!"""
 no.lastname.nz,New Zealand,,
+nrsk.no,Norway,,
+oceanbreeze.earth,,,"""A nature themed community for adventurists."""
+odin.lanofthedead.xyz,,,"""for LANoftheDead network members and other likeminded human beings."""
+pappdi.in,Finland,Ostrobothnia?,"""Väälkumi ti hanje Lemmy institution which is intended for Osterbottins, Finnish Swedes, Finns in general, and other loose people."" Translation help please?"
 pathfinder.social,,,"""A place for people to discuss Pathfinder and Starfinder tabletop RPGs"""
 pathofexile-discuss.com,,,"""POE non-reddit discussion!"""
+pawb.social,,,"""Communities for furries by furries"""
 poptalk.scrubbles.tech,,,"""Communities centered around today's pop music. Come join to Popheads, Taylor Swift, Lana Del Rey, or create your own community!"""
 pornlemmy.com,,,"""Clean fun safe porn"" (""heavy bias towards vanilla content"")"
+possumpat.io,,,"""An instance hosting communities for some niche interests and hobbies."""
 preserve.games,,,"""A place to discuss video game preservation and history"""
 pricefield.org,,,"""The Pricefield corner of Lemmy! For all fans of Max and Chloe, Arcadia Bay, or just Life is Strange in general."""
 programming.dev,,,"""A collection of programming communities"""
+psychedelia.ink,,,"""for all things psychedelia or psychedelia-adjacent."""
 rblind.com,,,"""This is an instance for blind and low vision folks, and friends of the blindness community"""
+rekabu.ru,Russia,,"""an open Lemmy server for various communities, designed mainly for the RU segment of the Internet."""
 sffa.community,,,"""The Science-Fiction Fantasy Alliance"""
+shinobu.cloud,,,"""For Shinobu and Anime lovers"""
 slrpnk.net,,,"""Where solarpunks organize for a better world!"""
 startrek.website,,,"""The warp core of the internet"""
 sub.wetshaving.social,,,"""An rWetShaving Community"""
 suppo.fi,Finland,,
+support.futbol,,,"""Association Football focused instance."""
 szmer.info,Poland,,
+tabletop.place,,,"""A home for board games, tabletop games, wargames, and role-playing games!"""
+tagpro.lol,,,"""lemmy instance for tagpro players"""
+talk.kururin.tech,USA,"NY, New York City",Hunter College
+terefere.eu,,,"""Arts & history instance. Everyone is welcome!"""
+thevapor.space,,,"""Vaping and engineering discussion space"""
+toons.zone,,,"""A space for all things animation of all mediums, whether you’re just a fan, or an artist yourself."""
 ttrpg.network,,,"""a site dedicated to TTRPG discussion, memes, news, etc."""
+tucson.social,USA,"AZ, Tucson",
+wallstreets.bet,,,"""a hedge against an eventual elimination and removal of the original /r/wallstreetbets"""
 waveform.social,,,"""A home for musically minded people"""
 wayfarershaven.eu,,,"""Creating a space for inspiration, creativity, handwork, reading, learning, travel, etc."""
+wizanons.dev,,,"""for wizards, witches, warlocks, and all magic users. LGBTQIA+ friendly. All welcome! Mysticism and psychedelics welcome too."""
+yall.theatl.social,USA,"GA, Atlanta",
+yiffit.net,,,"""A queer and yiffy lemmy instance for furry art discovery"""
+zoo.splitlinux.org,,,"""Everything Split Linux"""

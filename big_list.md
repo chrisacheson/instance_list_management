@@ -2,68 +2,189 @@ A CSV version of this list is available at [https://github.com/chrisacheson/inst
 
 Topic/audience focused:
 
+- [aiparadise.moe](http://aiparadise.moe/) - "a Lemmy instance focused on all things AI, everyone is welcome here :)"
 - [ani.social](http://ani.social/) - "A Social Hub for Anime Fans"
 - [bookwormstory.social](http://bookwormstory.social/) - "Ascendance of a Bookworm Community"
+- [boomer.casino](http://boomer.casino/) - "the only website in the fediverse made for the digital elderly" (memes)
 - [cdda.social](http://cdda.social/) - "The official Lemmy for Cataclysm: Dark Days Ahead"
+- [citizensgaming.com](http://citizensgaming.com/) - "a Star Citizen specific Lemmy instance"
+- [code4lib.net](http://code4lib.net/) - "GLAM themed online community" (galleries, libraries, archives, and museums)
+- [communick.news](http://communick.news/) - "Given that [Communick](https://communick.com/) is a privacy-focused service provider who supports open source and the indieweb, you can expect some of this content to gravitate towards that"
+- [community.nicfab.it](http://community.nicfab.it/) - "This is a community space for projects and users interested in privacy, data protection, cybersecurity, and innovative solutions."
+- [crystals.rest](http://crystals.rest/) - "A general instance for livestreaming, anime, and retro art!"
+- [demotheque.com](http://demotheque.com/) - "For the demoscene, culture and people associated with it."
+- [digipres.cafe](http://digipres.cafe/) - "A community notice board and discussion space for all things digital preservation, including digital-GLAM, and digital information records management."
+- [discuss.divergentparenting.space](http://discuss.divergentparenting.space/) - "A space for caregivers of neurodivergent people to talk amongst themselves and provide support. Allies are welcome."
+- [disflux.org](http://disflux.org/) - "disflux is a lemmy instance focused on D.I.Y. and self sufficiency type communities."
+- [dit.reformed.social](http://dit.reformed.social/) - "a space for Reformed Christians to have discussions, make friends, and support one another"
 - [dormi.zone](http://dormi.zone/) - "A Lemmy instance for fans of the third-person action games Warframe and Soulframe, developed by Digital Extremes"
 - [fanaticus.social](http://fanaticus.social/) - "A community of sports fans to talk about sports."
+- [fanexus.com](http://fanexus.com/) - "A lemmy instance devoted to fans of all kinds."
+- [femboys.bar](http://femboys.bar/) - "lemmy instance for the bois'"
+- [frmsn.space](http://frmsn.space/) - "The home for Freemasonry on Lemmy & the Fediverse"
+- [gekinzuku.com](http://gekinzuku.com/) - "The best gaming site ever"
+- [hobbit.world](http://hobbit.world/) - "This is intended to be a small community of folks who love the works of Tolkien."
 - [infosec.pub](http://infosec.pub/) - Info- and cybersecurity, related to infosec.exchange Mastodon server
 - [iusearchlinux.fyi](http://iusearchlinux.fyi/) - btw
+- [l.cackl.io](http://l.cackl.io/) - "Link aggregation for furries: hyenas and hyena friends, specifically! Furry content not required."
 - [lem.clinicians-exchange.org](http://lem.clinicians-exchange.org/) - "Mental Health Professional Discussion and Peer Support"
 - [lemdro.id](http://lemdro.id/) - Android
+- [lemmy.4d2.org](http://lemmy.4d2.org/) - "A general purpose instance with an affection for retrocomputing and a left-libertarian cypherpunk sensibility."
+- [lemmy.beyondcombustion.net](http://lemmy.beyondcombustion.net/) - "A Lemmy community for cannabis, vaporizers, and vaporizer accessories."
+- [lemmy.blahaj.zone](http://lemmy.blahaj.zone/) - "a general purpose lemmy instance for queer and gender diverse folk, and their allies."
+- [lemmy.bringdaruck.us](http://lemmy.bringdaruck.us/) - "A home for all things hiphop"
+- [lemmy.dbzer0.com](http://lemmy.dbzer0.com/) - "Communities about Generative AI, Copylefts, Neurodivergence, Filesharing, and Godot Engine software"
+- [lemmy.design](http://lemmy.design/) - "A Lemmy community for tech and design"
 - [lemmy.film](http://lemmy.film/) - "A Lemmy for filmmakers, movie buffs, artists, creators and everyone!"
+- [lemmy.glasgow.social](http://lemmy.glasgow.social/) - "A place for communities based in and around Glasgow, Scotland."
+- [lemmy.graphics](http://lemmy.graphics/) - "A Lemmy instance for computer graphics hobbyists and professionals."
+- [lemmy.intai.tech](http://lemmy.intai.tech/) - "Integrated AI - Home and forum for AI Enthusiasts" Front end broken? Doesn't list any posts, but [direct links](https://lemmy.intai.tech/post/99) to them still work
+- [lemmy.kde.social](http://lemmy.kde.social/) - "Friendly lemmy instance for the KDE community"
+- [lemmy.kodemystic.dev](http://lemmy.kodemystic.dev/) - "Extradimensional pit for eschatonic oracles, anarcho-technomancers, wasted tinfoil madhatters, seekers of eldritch abysses and amnesiac xenomorphs."
+- [lemmy.linuxuserspace.show](http://lemmy.linuxuserspace.show/) - "This instance is brought to you by the guys that do the [Linux User Space](https://linuxuserspace.show/) video and audio podcast."
+- [lemmy.piracy.guide](http://lemmy.piracy.guide/) - "Piracy Guide Lemmy"
 - [lemmy.radio](http://lemmy.radio/) - "A lemmy instance for amateur radio enthusiasts to use."
+- [lemmy.redkrieg.com](http://lemmy.redkrieg.com/) - "Just a place for makers to post their things!"
+- [lemmy.servarr.com](http://lemmy.servarr.com/) - "Lemmy for Servarr and all arr related things"
+- [lemmy.spacestation14.com](http://lemmy.spacestation14.com/) - "A Lemmy instance for [Space Station 14](https://spacestation14.io/)"
+- [lemmy.srv.eco](http://lemmy.srv.eco/) - "Self-sufficiency, mutual aid, collapse, and other subjects related to the environment and our place and role(s) within it."
 - [lemmy.studio](http://lemmy.studio/) - "An instance for musicians and music lovers"
+- [lemmy.villa-straylight.social](http://lemmy.villa-straylight.social/) - "A general purpose Lemmy instance with a cool cyberpunk aesthetic"
+- [lemmy.vrchat-dev.tech](http://lemmy.vrchat-dev.tech/) - "a community-driven lemmy instance for VRChat, a virtual universe home to thousands of unique worlds!"
 - [lemmy.whynotdrs.org](http://lemmy.whynotdrs.org/) - "GameStop, US stock markets, direct registration, holding Wall Street accountable, and more"
+- [lemmy.wraithsquadrongaming.com](http://lemmy.wraithsquadrongaming.com/) - "Star Wars is a buffet - there's something for everyone!"
+- [lemmy.zip](http://lemmy.zip/) - "A Lemmy community for everyone, with a focus towards tech, PCs, and gaming."
+- [lemmy2.addictmud.org](http://lemmy2.addictmud.org/) - "focus on gaming in general, mudding more specifically, and my mud exactly (addictMUD)."
+- [lemmyadmin.site](http://lemmyadmin.site/) - "A Federation of small instance administrators to share knowledge and back each other up during off hours incidents."
+- [lemmydeals.com](http://lemmydeals.com/) - "A Federated deal finder"
+- [lemmyf.uk](http://lemmyf.uk/) - "your nsfw homepage"
+- [lemmyfly.org](http://lemmyfly.org/) - "A Lemmy instance with aviation related communities"
+- [lemmymemes.com](http://lemmymemes.com/) - "Join our online board, connect with meme lovers, and unleash your laughter. Share, discuss, and enjoy the funniest memes around. It's meme time!"
 - [lemmynsfw.com](http://lemmynsfw.com/) - "NSFW (18+) only instance for Lemmy"
 - [lemmyrs.org](http://lemmyrs.org/) - "Federated Rust Lang Instance"
+- [lib.lgbt](http://lib.lgbt/) - "positive and welcoming lemmy community with a particular focus on LGBT people and their allies."
+- [libreauto.app](http://libreauto.app/) - "Libre Automation: Build Smart Homes, Liberating with Open-Source"
+- [linux.community](http://linux.community/) - "The Linux.Chat community is a multi-platform community for general Linux® support."
 - [mander.xyz](http://mander.xyz/) - "An instance dedicated to nature and science"
+- [mobilemmohub.com](http://mobilemmohub.com/) - "Community of mobile MMO games enthusiasts"
 - [monero.town](http://monero.town/) - "A town for the Monero community to live in."
+- [moto.teamswollen.org](http://moto.teamswollen.org/) - "For all motorcycle discussions including racing."
 - [mtgzone.com](http://mtgzone.com/) - "Magic: the Gathering communities for all formats, interests, skill levels, and news!"
+- [neatia.xyz](http://neatia.xyz/) - "dedicated to writing and sharing prompts for prompt engineering in LLMs."
 - [nerdbin.social](http://nerdbin.social/) - "Your home for all your favorite nerdy pop culture fandoms!"
+- [oceanbreeze.earth](http://oceanbreeze.earth/) - "A nature themed community for adventurists."
+- [odin.lanofthedead.xyz](http://odin.lanofthedead.xyz/) - "for LANoftheDead network members and other likeminded human beings."
 - [pathfinder.social](http://pathfinder.social/) - "A place for people to discuss Pathfinder and Starfinder tabletop RPGs"
 - [pathofexile-discuss.com](http://pathofexile-discuss.com/) - "POE non-reddit discussion!"
+- [pawb.social](http://pawb.social/) - "Communities for furries by furries"
 - [poptalk.scrubbles.tech](http://poptalk.scrubbles.tech/) - "Communities centered around today's pop music. Come join to Popheads, Taylor Swift, Lana Del Rey, or create your own community!"
 - [pornlemmy.com](http://pornlemmy.com/) - "Clean fun safe porn" ("heavy bias towards vanilla content")
+- [possumpat.io](http://possumpat.io/) - "An instance hosting communities for some niche interests and hobbies."
 - [preserve.games](http://preserve.games/) - "A place to discuss video game preservation and history"
 - [pricefield.org](http://pricefield.org/) - "The Pricefield corner of Lemmy! For all fans of Max and Chloe, Arcadia Bay, or just Life is Strange in general."
 - [programming.dev](http://programming.dev/) - "A collection of programming communities"
+- [psychedelia.ink](http://psychedelia.ink/) - "for all things psychedelia or psychedelia-adjacent."
 - [rblind.com](http://rblind.com/) - "This is an instance for blind and low vision folks, and friends of the blindness community"
 - [sffa.community](http://sffa.community/) - "The Science-Fiction Fantasy Alliance"
+- [shinobu.cloud](http://shinobu.cloud/) - "For Shinobu and Anime lovers"
 - [slrpnk.net](http://slrpnk.net/) - "Where solarpunks organize for a better world!"
 - [startrek.website](http://startrek.website/) - "The warp core of the internet"
 - [sub.wetshaving.social](http://sub.wetshaving.social/) - "An rWetShaving Community"
+- [support.futbol](http://support.futbol/) - "Association Football focused instance."
+- [tabletop.place](http://tabletop.place/) - "A home for board games, tabletop games, wargames, and role-playing games!"
+- [tagpro.lol](http://tagpro.lol/) - "lemmy instance for tagpro players"
+- [terefere.eu](http://terefere.eu/) - "Arts & history instance. Everyone is welcome!"
+- [thevapor.space](http://thevapor.space/) - "Vaping and engineering discussion space"
+- [toons.zone](http://toons.zone/) - "A space for all things animation of all mediums, whether you’re just a fan, or an artist yourself."
 - [ttrpg.network](http://ttrpg.network/) - "a site dedicated to TTRPG discussion, memes, news, etc."
+- [wallstreets.bet](http://wallstreets.bet/) - "a hedge against an eventual elimination and removal of the original /r/wallstreetbets"
 - [waveform.social](http://waveform.social/) - "A home for musically minded people"
 - [wayfarershaven.eu](http://wayfarershaven.eu/) - "Creating a space for inspiration, creativity, handwork, reading, learning, travel, etc."
+- [wizanons.dev](http://wizanons.dev/) - "for wizards, witches, warlocks, and all magic users. LGBTQIA+ friendly. All welcome! Mysticism and psychedelics welcome too."
+- [yiffit.net](http://yiffit.net/) - "A queer and yiffy lemmy instance for furry art discovery"
+- [zoo.splitlinux.org](http://zoo.splitlinux.org/) - "Everything Split Linux"
 
-Location focused:
+Location/language focused:
 
-- Australia - [aussie.zone](http://aussie.zone/)
+(For some of these it's a little unclear to me whether they should be associated with a country or a language. Please let me know if anything needs to be corrected.)
+
+- Australia
+    - [aussie.zone](http://aussie.zone/)
+    - [lemmy.bleh.au](http://lemmy.bleh.au/)
+    - Perth - [lemmy.perthchat.org](http://lemmy.perthchat.org/)
+    - Tasmania - [lemmy.nine-hells.net](http://lemmy.nine-hells.net/)
+- Austria
+    - Graz - [lemmy.graz.social](http://lemmy.graz.social/)
+- Basque - [lemmy.eus](http://lemmy.eus/) - "Free and federated Basque web forums. Euskalmemes, free software, fidiverse, etymologies..."
+- Belgium - [lemmie.be](http://lemmie.be/)
 - Brazil - [lemmy.eco.br](http://lemmy.eco.br/)
 - Canada - [lemmy.ca](http://lemmy.ca/)
+- Catalan - [lemmy.cat](http://lemmy.cat/)
 - Chile - [feddit.cl](http://feddit.cl/)
+- Chinese
+    - [bbs.9tail.net](http://bbs.9tail.net/) - "Anonymous two-dimensional chat forum for anime, comic, game, vtuber"
+    - [lemmy.ch3n2k.com](http://lemmy.ch3n2k.com/)
+    - [lemmy.sdfcn.org](http://lemmy.sdfcn.org/)
+- Czechia - [czech-lemmy.eu](http://czech-lemmy.eu/)
 - Denmark - [feddit.dk](http://feddit.dk/)
-- Finland - [suppo.fi](http://suppo.fi/)
-- France - [jlai.lu](http://jlai.lu/)
+- Finland
+    - [suppo.fi](http://suppo.fi/)
+    - Ostrobothnia? - [pappdi.in](http://pappdi.in/) - "Väälkumi ti hanje Lemmy institution which is intended for Osterbottins, Finnish Swedes, Finns in general, and other loose people." Translation help please?
+- France
+    - [jlai.lu](http://jlai.lu/)
+    - [lemmy.kaouenn-noz.fr](http://lemmy.kaouenn-noz.fr/) - Biohacking focus
+- Galician - [foros.fediverso.gal](http://foros.fediverso.gal/)
 - Germany
     - [feddit.de](http://feddit.de/)
     - [lemmy.rollenspiel.monster](http://lemmy.rollenspiel.monster/) - RPG-focused
+- Hungary - [fost.hu](http://fost.hu/) - "A magyar Lemmy szerver 🇭🇺"
 - Indonesia - [lemmy.my.id](http://lemmy.my.id/)
+- Israel/Palestine - [lemmy.org.il](http://lemmy.org.il/) - "General Palestine/Israel instance. Hebrew/Arabic/Engl*sh"
 - Italy - [feddit.it](http://feddit.it/)
+- Japan
+    - [feddit.jp](http://feddit.jp/)
+    - [lemmyjapan.com](http://lemmyjapan.com/)
+- Japanese/English - [lemmy.sdfjp.org](http://lemmy.sdfjp.org/)
+- Lithuania - [group.lt](http://group.lt/)
 - Malaysia - [monyet.cc](http://monyet.cc/)
-- Netherlands - [feddit.nl](http://feddit.nl/)
+- Mexico - [mujico.org](http://mujico.org/) - "r/Mujico: Fuck u/spez, we move to mujico.org" (memes)
+- Netherlands
+    - [feddit.nl](http://feddit.nl/)
+    - [lemy.nl](http://lemy.nl/)
 - New Zealand
+    - [feddit.nz](http://feddit.nz/)
     - [lemmy.nz](http://lemmy.nz/)
     - [no.lastname.nz](http://no.lastname.nz/)
+- Norway - [nrsk.no](http://nrsk.no/)
 - Poland
     - [karab.in](http://karab.in/)
     - [szmer.info](http://szmer.info/)
-- Portugal - [feddit.pt](http://feddit.pt/) - Gone?
+- Portugal - [feddit.pt](http://feddit.pt/)
+- Portuguese - [bolha.forum](http://bolha.forum/) - "Visit [bolha.io](https://bolha.io/) to know more about our collective."
 - Romania - [feddit.ro](http://feddit.ro/)
+- Russia
+    - [0xdd.org.ru](http://0xdd.org.ru/) - "DevDay Community Links Aggregator", tech focus
+    - [rekabu.ru](http://rekabu.ru/) - "an open Lemmy server for various communities, designed mainly for the RU segment of the Internet."
+- Slovenia - [lemiverse.xyz](http://lemiverse.xyz/)
+- South Africa - [lmmy.co.za](http://lmmy.co.za/) - "A place for lemmy'sersingtons in South Africa"
+- South Korea - [lemmy.funami.tech](http://lemmy.funami.tech/)
 - Spain - [eslemmy.es](http://eslemmy.es/) - General Spanish language server?
-- Sweden - [feddit.nu](http://feddit.nu/)
+- Spanish
+    - [foro.markoop.org](http://foro.markoop.org/) - "[Markoop](https://markoop.org/) is a strategic free culture project to establish a cooperative framework in Social and Solidarity Economy environments."
+    - [lemuria.es](http://lemuria.es/) - "A meeting point to discover and debate for Spanish-speaking users"
+- Sweden
+    - [feddit.nu](http://feddit.nu/)
+    - [lemmy.helvetet.eu](http://lemmy.helvetet.eu/) - Metal music focus
 - Switzerland - [feddit.ch](http://feddit.ch/)
 - UK - [feddit.uk](http://feddit.uk/)
 - USA
+    - AZ, Tucson - [tucson.social](http://tucson.social/)
+    - CA, Sacramento - [lemmy.death916.xyz](http://lemmy.death916.xyz/)
+    - CO - [centennialstate.social](http://centennialstate.social/)
+    - CO, Boulder County - [boulder.ly](http://boulder.ly/) - "Keep Boulder weird, in the Fediverse!"
+    - DC/MD/VA - [dmv.social](http://dmv.social/) - "a community for those around washington dc, maryland, and virginia"
+    - GA, Atlanta - [yall.theatl.social](http://yall.theatl.social/)
     - Midwest - [midwest.social](http://midwest.social/) - "A lemmy server for, but not limited to, leftists in the Midwest USA"
+    - NY, New York City - [talk.kururin.tech](http://talk.kururin.tech/) - Hunter College
+    - VA - [lemmy.mayes.io](http://lemmy.mayes.io/) - "local communities for virginia and blue ridge."
+    - WV - [dubvee.org](http://dubvee.org/)

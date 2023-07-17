@@ -45,7 +45,11 @@ print()
 for instance in topic_instances:
     print(f"- {make_instance_text(instance)}")
 print()
-print("Location focused:")
+print("Location/language focused:")
+print()
+print("(For some of these it's a little unclear to me whether they should be "
+      "associated with a country or a language. Please let me know if "
+      "anything needs to be corrected.)")
 print()
 for country in countries:
     country_regions = location_instances[country]
