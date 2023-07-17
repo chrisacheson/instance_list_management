@@ -36,7 +36,6 @@ Topic/audience focused:
 - [lemmy.dbzer0.com](http://lemmy.dbzer0.com/) - "Communities about Generative AI, Copylefts, Neurodivergence, Filesharing, and Godot Engine software"
 - [lemmy.design](http://lemmy.design/) - "A Lemmy community for tech and design"
 - [lemmy.film](http://lemmy.film/) - "A Lemmy for filmmakers, movie buffs, artists, creators and everyone!"
-- [lemmy.glasgow.social](http://lemmy.glasgow.social/) - "A place for communities based in and around Glasgow, Scotland."
 - [lemmy.graphics](http://lemmy.graphics/) - "A Lemmy instance for computer graphics hobbyists and professionals."
 - [lemmy.intai.tech](http://lemmy.intai.tech/) - "Integrated AI - Home and forum for AI Enthusiasts" Front end broken? Doesn't list any posts, but [direct links](https://lemmy.intai.tech/post/99) to them still work
 - [lemmy.kde.social](http://lemmy.kde.social/) - "Friendly lemmy instance for the KDE community"
@@ -165,6 +164,8 @@ Location/language focused:
 - Russia
     - [0xdd.org.ru](http://0xdd.org.ru/) - "DevDay Community Links Aggregator", tech focus
     - [rekabu.ru](http://rekabu.ru/) - "an open Lemmy server for various communities, designed mainly for the RU segment of the Internet."
+- Scotland
+    - Glasgow - [lemmy.glasgow.social](http://lemmy.glasgow.social/)
 - Slovenia - [lemiverse.xyz](http://lemiverse.xyz/)
 - South Africa - [lmmy.co.za](http://lmmy.co.za/) - "A place for lemmy'sersingtons in South Africa"
 - South Korea - [lemmy.funami.tech](http://lemmy.funami.tech/)
