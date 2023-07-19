@@ -93,6 +93,7 @@ Topic/audience focused:
 - [tabletop.place](http://tabletop.place/) - "A home for board games, tabletop games, wargames, and role-playing games!"
 - [tagpro.lol](http://tagpro.lol/) - "lemmy instance for tagpro players"
 - [terefere.eu](http://terefere.eu/) - "Arts & history instance. Everyone is welcome!"
+- [thegarden.land](http://thegarden.land/) - "a home for gardeners and plant-lovers"
 - [thevapor.space](http://thevapor.space/) - "Vaping and engineering discussion space"
 - [toons.zone](http://toons.zone/) - "A space for all things animation of all mediums, whether you’re just a fan, or an artist yourself."
 - [ttrpg.network](http://ttrpg.network/) - "a site dedicated to TTRPG discussion, memes, news, etc."
@@ -169,7 +170,7 @@ Location/language focused:
 - Slovenia - [lemiverse.xyz](http://lemiverse.xyz/)
 - South Africa - [lmmy.co.za](http://lmmy.co.za/) - "A place for lemmy'sersingtons in South Africa"
 - South Korea - [lemmy.funami.tech](http://lemmy.funami.tech/)
-- Spain - [eslemmy.es](http://eslemmy.es/) - General Spanish language server?
+- Spain - [eslemmy.es](http://eslemmy.es/)
 - Spanish
     - [foro.markoop.org](http://foro.markoop.org/) - "[Markoop](https://markoop.org/) is a strategic free culture project to establish a cooperative framework in Social and Solidarity Economy environments."
     - [lemuria.es](http://lemuria.es/) - "A meeting point to discover and debate for Spanish-speaking users"
