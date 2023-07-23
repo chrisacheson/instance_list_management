@@ -27,6 +27,7 @@ Topic/audience focused:
 - [infosec.pub](http://infosec.pub/) - Info- and cybersecurity, related to infosec.exchange Mastodon server
 - [iusearchlinux.fyi](http://iusearchlinux.fyi/) - btw
 - [l.cackl.io](http://l.cackl.io/) - "Link aggregation for furries: hyenas and hyena friends, specifically! Furry content not required."
+- [lebowski.social](http://lebowski.social/) - "The Big Lebowski Instance"
 - [lem.clinicians-exchange.org](http://lem.clinicians-exchange.org/) - "Mental Health Professional Discussion and Peer Support"
 - [lemdro.id](http://lemdro.id/) - Android
 - [lemmy.4d2.org](http://lemmy.4d2.org/) - "A general purpose instance with an affection for retrocomputing and a left-libertarian cypherpunk sensibility."
