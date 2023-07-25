@@ -14,7 +14,7 @@ md_indent = " " * 4
 
 def make_instance_text(instance):
     hostname = instance["hostname"]
-    url = f"http://{hostname}/"
+    url = f"https://{hostname}/"
     description = ""
     if instance["description"] != "":
         description = f" - {instance['description']}"
