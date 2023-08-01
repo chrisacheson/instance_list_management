@@ -5,6 +5,7 @@ Create markdown output from a CSV instance list
 """
 from collections import defaultdict
 import csv
+from datetime import date
 import sys
 
 
@@ -38,6 +39,8 @@ with open(instances_file, newline="") as csvfile:
 countries = list(location_instances.keys())
 countries.sort()
 
+print(f"Updated {date.today().isoformat()}")
+print()
 print(f"A CSV version of this list is available at [{repo_url}]({repo_url})")
 print()
 print("Topic/audience focused:")
