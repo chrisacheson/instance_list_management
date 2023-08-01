@@ -4,6 +4,7 @@ Topic/audience focused:
 
 - [aiparadise.moe](https://aiparadise.moe/) - "a Lemmy instance focused on all things AI, everyone is welcome here :)"
 - [ani.social](https://ani.social/) - "A Social Hub for Anime Fans"
+- [awful.systems](https://awful.systems/) - Tech snark?
 - [bookwormstory.social](https://bookwormstory.social/) - "Ascendance of a Bookworm Community"
 - [boomer.casino](https://boomer.casino/) - "the only website in the fediverse made for the digital elderly" (memes)
 - [cdda.social](https://cdda.social/) - "The official Lemmy for Cataclysm: Dark Days Ahead"
@@ -15,11 +16,13 @@ Topic/audience focused:
 - [demotheque.com](https://demotheque.com/) - "For the demoscene, culture and people associated with it."
 - [digipres.cafe](https://digipres.cafe/) - "A community notice board and discussion space for all things digital preservation, including digital-GLAM, and digital information records management."
 - [discuss.divergentparenting.space](https://discuss.divergentparenting.space/) - "A space for caregivers of neurodivergent people to talk amongst themselves and provide support. Allies are welcome."
+- [discuss.ntfy.sh](https://discuss.ntfy.sh/) - "ntfy (pronounced notify) is a simple HTTP-based pub-sub notification service. You can use it to send push notifications to your phone via HTTP PUT/POST."
 - [disflux.org](https://disflux.org/) - "disflux is a lemmy instance focused on D.I.Y. and self sufficiency type communities."
 - [dit.reformed.social](https://dit.reformed.social/) - "a space for Reformed Christians to have discussions, make friends, and support one another"
 - [dormi.zone](https://dormi.zone/) - "A Lemmy instance for fans of the third-person action games Warframe and Soulframe, developed by Digital Extremes"
 - [fanaticus.social](https://fanaticus.social/) - "A community of sports fans to talk about sports."
 - [fanexus.com](https://fanexus.com/) - "A lemmy instance devoted to fans of all kinds."
+- [fedi196.gay](https://fedi196.gay/) - LGBTQ-focused kbin instance
 - [femboys.bar](https://femboys.bar/) - "lemmy instance for the bois'"
 - [frmsn.space](https://frmsn.space/) - "The home for Freemasonry on Lemmy & the Fediverse"
 - [gekinzuku.com](https://gekinzuku.com/) - "The best gaming site ever"
@@ -86,6 +89,8 @@ Topic/audience focused:
 - [programming.dev](https://programming.dev/) - "A collection of programming communities"
 - [psychedelia.ink](https://psychedelia.ink/) - "for all things psychedelia or psychedelia-adjacent."
 - [rblind.com](https://rblind.com/) - "This is an instance for blind and low vision folks, and friends of the blindness community"
+- [rimworld.gallery](https://rimworld.gallery/) - "Rimworld.gallery is a non profit kbin server dedicated to Rimworld, especially high resolution renders made with the progress renderer mod."
+- [seemel.ink](https://seemel.ink/) - "See Me Link Aggregator" - Tech, mostly keyboards
 - [sffa.community](https://sffa.community/) - "The Science-Fiction Fantasy Alliance"
 - [shinobu.cloud](https://shinobu.cloud/) - "For Shinobu and Anime lovers"
 - [slrpnk.net](https://slrpnk.net/) - "Where solarpunks organize for a better world!"
@@ -162,7 +167,9 @@ Location/language focused:
     - [karab.in](https://karab.in/)
     - [szmer.info](https://szmer.info/)
 - Portugal - [feddit.pt](https://feddit.pt/)
-- Portuguese - [bolha.forum](https://bolha.forum/) - "Visit [bolha.io](https://bolha.io/) to know more about our collective."
+- Portuguese
+    - [bolha.forum](https://bolha.forum/) - "Visit [bolha.io](https://bolha.io/) to know more about our collective."
+    - [lemmy.pt](https://lemmy.pt/) - "A public instance of Lemmy dedicated to the entire Portuguese-speaking community."
 - Romania - [feddit.ro](https://feddit.ro/)
 - Russia
     - [0xdd.org.ru](https://0xdd.org.ru/) - "DevDay Community Links Aggregator", tech focus

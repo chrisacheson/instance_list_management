@@ -1,0 +1,125 @@
+# General-purpose threadiverse instances:
+beehaw.org
+discuss.tchncs.de
+feddit.online
+feddit.rocks
+fedia.io
+kbin.social
+lemm.ee
+lemmy.antemeridiem.xyz
+lemmy.fmhy.ml			# Dead
+lemmy.ml
+lemmy.one
+lemmy.run
+lemmy.sdf.org
+lemmy.world
+lemmy.wtf
+normalcity.life
+reddthat.com			# Lemmy error page
+sh.itjust.works
+social.fossware.space		# 502 error
+sopuli.xyz
+vlemmy.net			# Dead
+wirebase.org
+
+# Alias of instance already on the big list:
+www.mander.xyz
+www.slrpnk.net
+
+# Controversial:
+lemmy.basedcount.com		# PoliticalCompassMemes, moderately controversial, not very active
+lemmy.comfysnug.space		# Allows loli hentai
+
+# Threadiverse instances ignored for other reasons:
+forum.kittensgame.com		# Not federating properly
+forum.rhombik.com		# No recent activity
+latte.isnot.coffee		# Unresponsive
+lemmy.cloudhub.social		# No recent activity
+r-sauna.fi			# No recent activity, slow
+
+############################################################
+
+# Mastodon and clones:
+fgc.network
+veganism.social
+
+############################################################
+
+# Discourse:
+budgetlightforum.com
+community.bitwarden.com
+discourse.cataclysmdda.org
+discourse.haskell.org
+discourse.practicalzfs.com
+discuss.kde.org
+discuss.privacyguides.net
+forum.r-selfhosted.com
+ziggit.dev
+
+# Flarum:
+discuss.grapheneos.org
+
+# Invision Community:
+linustechtips.com
+
+# Magic Find:
+www.minecraftforum.net
+
+# MyBB:
+forum.jellyfin.org
+
+# NodeBB:
+sysadmins.zone
+
+# phpBB:
+bogleheads.org
+forum.blackmagicdesign.com
+forum.minetest.net
+forum.objectshows.net
+forums.factorio.com
+luthiersforum.com
+prodpost.com
+www.eomahaforums.com
+
+# Postmill:
+raddle.me
+yunanimous.com
+
+# rDrama:
+rdrama.net
+themotte.org
+www.themotte.org
+
+# Simple Machines Forum:
+forums.computercraft.cc
+
+# vBulletin:
+forum.cockos.com
+forums.nasioc.com
+
+# XenForo:
+forums.terraria.org
+freecanada.win
+squidboards.com
+www.jemsite.com
+
+# Other non-threadiverse hosts:
+balkansirl.net			# Unresponsive
+discord.gg
+discuit.net
+kiwiirc.com
+matrix.to
+osu.ppy.sh
+ramble.pw
+revanced.app
+saidit.net
+scored.co
+squabbles.io
+tildes.net
+wts2.wt.social
+www.childfree.cc
+www.dreamwidth.org
+www.pokecommunity.com
+www.reddit.com
+www.saidit.net
+www.tumblr.com

@@ -3,6 +3,7 @@ hostname,country,region,description
 aiparadise.moe,,,"""a Lemmy instance focused on all things AI, everyone is welcome here :)"""
 ani.social,,,"""A Social Hub for Anime Fans"""
 aussie.zone,Australia,,
+awful.systems,,,Tech snark?
 bbs.9tail.net,Chinese,,"""Anonymous two-dimensional chat forum for anime, comic, game, vtuber"""
 bolha.forum,Portuguese,,"""Visit [bolha.io](https://bolha.io/) to know more about our collective."""
 bookwormstory.social,,,"""Ascendance of a Bookworm Community"""
@@ -19,6 +20,7 @@ czech-lemmy.eu,Czechia,,
 demotheque.com,,,"""For the demoscene, culture and people associated with it."""
 digipres.cafe,,,"""A community notice board and discussion space for all things digital preservation, including digital-GLAM, and digital information records management."""
 discuss.divergentparenting.space,,,"""A space for caregivers of neurodivergent people to talk amongst themselves and provide support. Allies are welcome."""
+discuss.ntfy.sh,,,"""ntfy (pronounced notify) is a simple HTTP-based pub-sub notification service. You can use it to send push notifications to your phone via HTTP PUT/POST."""
 disflux.org,,,"""disflux is a lemmy instance focused on D.I.Y. and self sufficiency type communities."""
 dit.reformed.social,,,"""a space for Reformed Christians to have discussions, make friends, and support one another"""
 dmv.social,USA,DC/MD/VA,"""a community for those around washington dc, maryland, and virginia"""
@@ -39,6 +41,7 @@ feddit.nz,New Zealand,,
 feddit.pt,Portugal,,
 feddit.ro,Romania,,
 feddit.uk,UK,,
+fedi196.gay,,,LGBTQ-focused kbin instance
 femboys.bar,,,"""lemmy instance for the bois'"""
 foro.markoop.org,Spanish,,"""[Markoop](https://markoop.org/) is a strategic free culture project to establish a cooperative framework in Social and Solidarity Economy environments."""
 foros.fediverso.gal,Galician,,
@@ -88,6 +91,7 @@ lemmy.nz,New Zealand,,
 lemmy.org.il,Israel/Palestine,,"""General Palestine/Israel instance. Hebrew/Arabic/Engl*sh"""
 lemmy.perthchat.org,Australia,Perth,
 lemmy.piracy.guide,,,"""Piracy Guide Lemmy"""
+lemmy.pt,Portuguese,,"""A public instance of Lemmy dedicated to the entire Portuguese-speaking community."""
 lemmy.radio,,,"""A lemmy instance for amateur radio enthusiasts to use."""
 lemmy.redkrieg.com,,,"""Just a place for makers to post their things!"""
 lemmy.rollenspiel.monster,Germany,,RPG-focused
@@ -145,6 +149,8 @@ programming.dev,,,"""A collection of programming communities"""
 psychedelia.ink,,,"""for all things psychedelia or psychedelia-adjacent."""
 rblind.com,,,"""This is an instance for blind and low vision folks, and friends of the blindness community"""
 rekabu.ru,Russia,,"""an open Lemmy server for various communities, designed mainly for the RU segment of the Internet."""
+rimworld.gallery,,,"""Rimworld.gallery is a non profit kbin server dedicated to Rimworld, especially high resolution renders made with the progress renderer mod."""
+seemel.ink,,,"""See Me Link Aggregator"" - Tech, mostly keyboards"
 sffa.community,,,"""The Science-Fiction Fantasy Alliance"""
 shinobu.cloud,,,"""For Shinobu and Anime lovers"""
 slrpnk.net,,,"""Where solarpunks organize for a better world!"""
