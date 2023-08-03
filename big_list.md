@@ -1,9 +1,10 @@
-Updated 2023-08-01
+Updated 2023-08-02
 
 A CSV version of this list is available at [https://github.com/chrisacheson/instance_list_management](https://github.com/chrisacheson/instance_list_management)
 
 Topic/audience focused:
 
+- [4wd.social](https://4wd.social/) - "a home in the fediverse for offroad, overlanding, outdoors and related content"
 - [aiparadise.moe](https://aiparadise.moe/) - "a Lemmy instance focused on all things AI, everyone is welcome here :)"
 - [ani.social](https://ani.social/) - "A Social Hub for Anime Fans"
 - [awful.systems](https://awful.systems/) - Tech snark?
