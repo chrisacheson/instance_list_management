@@ -30,6 +30,7 @@ Topic/audience focused:
 - [frmsn.space](https://frmsn.space/) - "The home for Freemasonry on Lemmy & the Fediverse"
 - [gekinzuku.com](https://gekinzuku.com/) - "The best gaming site ever"
 - [hobbit.world](https://hobbit.world/) - "This is intended to be a small community of folks who love the works of Tolkien."
+- [hotaudiofiction.social](https://hotaudiofiction.social/) - "A community for audio fiction fans and creators - For lovers and creators of audio fiction in any form—fiction podcasts, audio dramas, radio theater, audiobooks, and more!"
 - [infosec.pub](https://infosec.pub/) - Info- and cybersecurity, related to infosec.exchange Mastodon server
 - [iusearchlinux.fyi](https://iusearchlinux.fyi/) - btw
 - [l.cackl.io](https://l.cackl.io/) - "Link aggregation for furries: hyenas and hyena friends, specifically! Furry content not required."
