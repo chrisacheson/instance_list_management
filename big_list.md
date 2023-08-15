@@ -1,4 +1,4 @@
-Updated 2023-08-10
+Updated 2023-08-15
 
 A CSV version of this list is available at [https://github.com/chrisacheson/instance_list_management](https://github.com/chrisacheson/instance_list_management)
 
@@ -48,6 +48,7 @@ Topic/audience focused:
 - [lemmy.kde.social](https://lemmy.kde.social/) - "Friendly lemmy instance for the KDE community"
 - [lemmy.kodemystic.dev](https://lemmy.kodemystic.dev/) - "Extradimensional pit for eschatonic oracles, anarcho-technomancers, wasted tinfoil madhatters, seekers of eldritch abysses and amnesiac xenomorphs."
 - [lemmy.linuxuserspace.show](https://lemmy.linuxuserspace.show/) - "This instance is brought to you by the guys that do the [Linux User Space](https://linuxuserspace.show/) video and audio podcast."
+- [lemmy.mods4ever.com](https://lemmy.mods4ever.com/) - "a collection of communities for our game mods including Deus Ex Randomizer and RollerCoaster Tycoon Randomizer, and also a community for The 7th Guest series"
 - [lemmy.piracy.guide](https://lemmy.piracy.guide/) - "Piracy Guide Lemmy"
 - [lemmy.radio](https://lemmy.radio/) - "A lemmy instance for amateur radio enthusiasts to use."
 - [lemmy.redkrieg.com](https://lemmy.redkrieg.com/) - "Just a place for makers to post their things!"
