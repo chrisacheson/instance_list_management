@@ -1,4 +1,4 @@
-Updated 2023-08-15
+Updated 2023-08-20
 
 A CSV version of this list is available at [https://github.com/chrisacheson/instance_list_management](https://github.com/chrisacheson/instance_list_management)
 
@@ -28,6 +28,7 @@ Topic/audience focused:
 - [fedi196.gay](https://fedi196.gay/) - LGBTQ-focused kbin instance
 - [femboys.bar](https://femboys.bar/) - "lemmy instance for the bois'"
 - [frmsn.space](https://frmsn.space/) - "The home for Freemasonry on Lemmy & the Fediverse"
+- [futurology.today](https://futurology.today/) - "A community devoted to the field of Future(s) Studies and evidence-based speculation about the development of humanity, technology, and civilization."
 - [gekinzuku.com](https://gekinzuku.com/) - "The best gaming site ever"
 - [hobbit.world](https://hobbit.world/) - "This is intended to be a small community of folks who love the works of Tolkien."
 - [hotaudiofiction.social](https://hotaudiofiction.social/) - "A community for audio fiction fans and creators - For lovers and creators of audio fiction in any form—fiction podcasts, audio dramas, radio theater, audiobooks, and more!"
