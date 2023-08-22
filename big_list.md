@@ -1,4 +1,4 @@
-Updated 2023-08-20
+Updated 2023-08-21
 
 A CSV version of this list is available at [https://github.com/chrisacheson/instance_list_management](https://github.com/chrisacheson/instance_list_management)
 
@@ -68,6 +68,7 @@ Topic/audience focused:
 - [lemmydeals.com](https://lemmydeals.com/) - "A Federated deal finder"
 - [lemmyf.uk](https://lemmyf.uk/) - "your nsfw homepage"
 - [lemmyfly.org](https://lemmyfly.org/) - "A Lemmy instance with aviation related communities"
+- [lemmyloves.art](https://lemmyloves.art/) - A lemmy instance for artists & art lovers
 - [lemmymemes.com](https://lemmymemes.com/) - "Join our online board, connect with meme lovers, and unleash your laughter. Share, discuss, and enjoy the funniest memes around. It's meme time!"
 - [lemmynsfw.com](https://lemmynsfw.com/) - "NSFW (18+) only instance for Lemmy"
 - [lemmyrs.org](https://lemmyrs.org/) - "Federated Rust Lang Instance"
