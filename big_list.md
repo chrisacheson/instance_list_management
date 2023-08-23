@@ -1,4 +1,4 @@
-Updated 2023-08-21
+Updated 2023-08-23
 
 A CSV version of this list is available at [https://github.com/chrisacheson/instance_list_management](https://github.com/chrisacheson/instance_list_management)
 
@@ -72,7 +72,6 @@ Topic/audience focused:
 - [lemmymemes.com](https://lemmymemes.com/) - "Join our online board, connect with meme lovers, and unleash your laughter. Share, discuss, and enjoy the funniest memes around. It's meme time!"
 - [lemmynsfw.com](https://lemmynsfw.com/) - "NSFW (18+) only instance for Lemmy"
 - [lemmyrs.org](https://lemmyrs.org/) - "Federated Rust Lang Instance"
-- [lewy.world](https://lewy.world/) - "an adult/NSFW content homepage for Lemmy"
 - [lib.lgbt](https://lib.lgbt/) - "positive and welcoming lemmy community with a particular focus on LGBT people and their allies."
 - [libreauto.app](https://libreauto.app/) - "Libre Automation: Build Smart Homes, Liberating with Open-Source"
 - [linux.community](https://linux.community/) - "The Linux.Chat community is a multi-platform community for general Linux® support."
@@ -144,7 +143,7 @@ Location/language focused:
 - Denmark - [feddit.dk](https://feddit.dk/)
 - Finland
     - [suppo.fi](https://suppo.fi/)
-    - Ostrobothnia? - [pappdi.in](https://pappdi.in/) - "Väälkumi ti hanje Lemmy institution which is intended for Osterbottins, Finnish Swedes, Finns in general, and other loose people." Translation help please?
+    - Ostrobothnia - [pappdi.in](https://pappdi.in/) - "Welcome to this Lemmy instance which is intended for Osterbottins (people from Ostrobothnia), Finnish Swedes, Finns in general, and other loose people."
 - France
     - [jlai.lu](https://jlai.lu/)
     - [lemmy.kaouenn-noz.fr](https://lemmy.kaouenn-noz.fr/) - Biohacking focus
