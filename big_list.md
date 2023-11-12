@@ -1,4 +1,4 @@
-Updated 2023-09-03
+Updated 2023-11-12
 
 A CSV version of this list is available at [https://github.com/chrisacheson/instance_list_management](https://github.com/chrisacheson/instance_list_management)
 
@@ -61,7 +61,6 @@ Topic/audience focused:
 - [lemmy.studio](https://lemmy.studio/) - "An instance for musicians and music lovers"
 - [lemmy.villa-straylight.social](https://lemmy.villa-straylight.social/) - "A general purpose Lemmy instance with a cool cyberpunk aesthetic"
 - [lemmy.vrchat-dev.tech](https://lemmy.vrchat-dev.tech/) - "a community-driven lemmy instance for VRChat, a virtual universe home to thousands of unique worlds!"
-- [lemmy.whynotdrs.org](https://lemmy.whynotdrs.org/) - "GameStop, US stock markets, direct registration, holding Wall Street accountable, and more"
 - [lemmy.wraithsquadrongaming.com](https://lemmy.wraithsquadrongaming.com/) - "Star Wars is a buffet - there's something for everyone!"
 - [lemmy.zip](https://lemmy.zip/) - "A Lemmy community for everyone, with a focus towards tech, PCs, and gaming."
 - [lemmy2.addictmud.org](https://lemmy2.addictmud.org/) - "focus on gaming in general, mudding more specifically, and my mud exactly (addictMUD)."

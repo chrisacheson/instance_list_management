@@ -29,6 +29,7 @@ www.slrpnk.net
 # Controversial:
 lemmy.basedcount.com		# PoliticalCompassMemes, moderately controversial, not very active
 lemmy.comfysnug.space		# Allows loli hentai
+lemmy.whynotdrs.org		# Financial cult: https://youtu.be/5pYeoZaoWrA
 
 # Threadiverse instances ignored for other reasons:
 forum.kittensgame.com		# Not federating properly
